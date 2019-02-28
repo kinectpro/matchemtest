@@ -1,6 +1,0 @@
-framework module Pods_MatchEmUpGameTest {
-  umbrella header "Pods-MatchEmUpGameTest-umbrella.h"
-
-  export *
-  module * { export * }
-}
